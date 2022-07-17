@@ -19,7 +19,7 @@ Prevucite .srt fajl ili fajlove kako bi
 ih konvertovali. Veličina prozora je
 promenljiva.
 
-## :warning: **Originalni (prevučeni) fajl ili fajlovi će biti izmenjeni** :warning:
+## :warning: **Originalni (prevučeni) fajl/fajlovi će biti izmenjeni** :warning:
 
 ### Konverzije podržanih karaktera
 | Pre | Posle |
