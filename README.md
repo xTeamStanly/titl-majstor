@@ -8,7 +8,7 @@
 <img
     src="preview.png"
     width="200"
-    style="float:right;"
+    align="right"
 />
 
 Mala aplikacija koja služi da pretvori
@@ -19,7 +19,7 @@ Prevucite .srt fajl ili fajlove kako bi
 ih konvertovali. Veličina prozora je
 promenljiva.
 
-:warning: ** Originalni (prevučeni) fajl ili fajlovi će biti izmenjeni !!!** :warning:
+## :warning: **Originalni (prevučeni) fajl ili fajlovi će biti izmenjeni** :warning:
 
 ### Konverzije podržanih karaktera
 | Pre | Posle |
